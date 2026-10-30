@@ -1,0 +1,2 @@
+# NETWORKWALKS-APSANA-B084K-WK1-PM1-CYBERSECURITY-LAB-SETUP
+Built my own cybersecurity practice lab this week with Networkwalks: Kali Linux on VirtualBox, using an isolated NAT Network, shared folder and snapshot, all on my own laptop. Hit a network error and got locked out of my own VM, and fixing both taught me the most. Excited for the next weeks! @Networkwalks @Waqas Karim #Cybersecurity #EthicalHacking
